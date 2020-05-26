@@ -4,6 +4,6 @@
 
 3.create new repo
 
-4. upload source code
+4. upload source code with detailed info
 
 5. initial commit
